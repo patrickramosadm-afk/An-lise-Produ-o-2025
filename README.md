@@ -1,6 +1,6 @@
 # 📊 Análise de Produção – Unidade CAPSi | 2025
 
-Este projeto apresenta um dashboard desenvolvido no Power BI com o objetivo de analisar a produção anual de atendimentos de uma unidade CAPSi.
+Este projeto apresenta um dashboard desenvolvido no Power BI com o objetivo de analisar a produção anual de atendimentos de uma unidade de saúde.
 
 A proposta vai além da visualização de dados, buscando transformar informações operacionais em insights que apoiem a tomada de decisão.
 
